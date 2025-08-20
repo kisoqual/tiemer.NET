@@ -4,12 +4,14 @@ using static System.Threading.Thread;
 using static System.ConsoleColor;
 
 //maybe ill use later
+/*
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+*/
 
-namespace tiemer.NET
+namespace tiemerNET
 {
     internal class tiemer
     {
